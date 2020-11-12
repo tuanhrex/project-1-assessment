@@ -1,4 +1,4 @@
-let currentValue = 1
+let currentValue = 0
 
 const number = document.getElementById('number');
 number.textContent = currentValue;
