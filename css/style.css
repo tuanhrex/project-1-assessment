@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-size: 50px;
+}
+
+button {
+    font-size: 30px;
+    width: 50px;
+    border: grey;
+    background-color: grey;
+    color: white;
+}
+
+button:hover {
+    background-color: white;
+    color: grey;
+    border: grey;
+}
+
+input {
+    font-size: 30px;
+    max-width: 75px;
+    text-align: center;
+    
+}
